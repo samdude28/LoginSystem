@@ -1,0 +1,15 @@
+	admin	admin2	admin3	admin4	admin5	admin6
+admin	-	0	0	0	0	0
+
+admin2	0	-	0	0	0	0
+
+admin3	0	0	-	0	0	0
+
+admin4	0	0	0	-	0	0
+
+admin5	0	0	0	0	-	0
+
+admin6	0	0	0	0	0	-
+trixie
+21
+
